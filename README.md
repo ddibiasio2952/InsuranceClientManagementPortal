@@ -1,6 +1,6 @@
 # Falvey Insurance Group Client Management Site
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6.0-blue)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-9.0-blue)
 ![C#](https://img.shields.io/badge/C%23-.NET-239120)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)

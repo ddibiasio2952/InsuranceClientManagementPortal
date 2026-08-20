@@ -41,6 +41,31 @@ The application also includes:
 * Dynamic dashboard for client and account information
 * Company announcements and shared resources
 
+## Project Demo
+
+The repository includes screenshots and video recordings that demonstrate the portal's interface and core workflows without requiring visitors to configure and run the application locally.
+
+### Demo Images
+
+The [`demo_images`](./demo_images) folder contains screenshots of the application's dashboard, location search, and client management features. These images provide a quick visual overview of the user interface and can be viewed directly through GitHub.
+
+![Dashboard](./demo_images/image01.png)
+
+![Location Search](./demo_images/image02.png)
+
+![Client Management](./demo_images/image04.png)
+
+### Demo Videos
+
+The [`demo_videos`](./demo_videos) folder contains recordings that demonstrate interactive features. These videos allow visitors to see how users navigate the portal, search for client information, and interact with its management tools.
+
+[Client Management Page Functionality](./demo_videos/Client_Page_Tour.mp4)
+
+[Location Search - Add Customer & Location Functionality](./demo_videos/Map_Add.mp4)
+
+[Search Bar Functionality by State & Location ID](./demo_videos/Search_Bar.mp4)
+
+
 ## Tech Stack
 
 ### Frontend

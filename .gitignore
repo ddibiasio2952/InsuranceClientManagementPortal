@@ -44,3 +44,5 @@ appsettings.*.json
 *.vsidx
 *.vspscc
 *.vssscc
+appsettings.json
+appsettings.json
